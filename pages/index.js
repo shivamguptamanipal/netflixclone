@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div className={style.appWrapper}>
       <Head>
-        <title>Netflix | Clever Programmer</title>
+        <title>Netflix | </title>
         <meta name='viewport' content='initial-scale=1.0, width=device-width' />
       </Head>
       <Main />
